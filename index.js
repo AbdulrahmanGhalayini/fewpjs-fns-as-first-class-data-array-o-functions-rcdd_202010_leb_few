@@ -42,7 +42,8 @@ function unleashDog(dogName, dogBreed) {
 
 
 // let array_of_function =
-const routine [wakeDog , leashDog]
+const routine= [wakeDog , leashDog, walkToPark, throwFrisbee, walkHome, unleashDog
+];
 // let routine  =[
 //   function wakeDog(dogName, dogBreed) {
 // var s= `Wake ${dogName} the ${dogBreed}`;
