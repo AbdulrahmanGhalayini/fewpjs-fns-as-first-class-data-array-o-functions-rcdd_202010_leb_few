@@ -79,8 +79,8 @@ const routine= [wakeDog , leashDog, walkToPark, throwFrisbee, walkHome, unleashD
 
     
 //     ];
-     function exerciseDog(o){
-              console.log(o);
+     function exerciseDog(dog, bread){
+              
 
       for(i=0; i<o.length;i++){
         console.log(i);
