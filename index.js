@@ -80,12 +80,9 @@ const routine= [wakeDog , leashDog, walkToPark, throwFrisbee, walkHome, unleashD
     
 //     ];
      function exerciseDog(dog, bread){
-              
+       return routine.map(fn)        
 
-      for(i=0; i<o.length;i++){
-        console.log(i);
-        console.log(o[i](a[i*2], a[i*2+1]));
-      }
+      
     }
 exerciseDog(routine);
  
